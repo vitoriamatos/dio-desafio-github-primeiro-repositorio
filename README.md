@@ -4,13 +4,16 @@
 
 Projeto criado devido a solicitação do bootcamp da DIO. Tem como objetivo ser um repositório para armazenar e organizar as anotações e códigos dos desafios e video aulas do treinamento, para que dessa forma possa ajudar novos devs que estejam fazendo o mesmo treinamento. 
 
-![Badge](https://img.shields.io/static/v1?label=LICENSA&message=MIT&color=blueviolet)
+[![Badge](https://img.shields.io/static/v1?label=LICENSA&message=MIT&color=blueviolet&link=https://github.com/vitoriamatos/dio-desafio-github-primeiro-repositorio/blob/main/LICENSE)](https://github.com/vitoriamatos/dio-desafio-github-primeiro-repositorio/blob/main/LICENSE)
+
+
+
 
 
 Conteúdo
 =================
 
-O projeto irá conter os resumos, fichamentos e os códigos dos projeto, conforme foi solicitado pelo bootcamp
+O projeto irá conter os resumos, fichamentos e os códigos dos projeto, conforme exatemente foi solicitado pelo bootcamp.
 <!--ts-->
  
    * 🚀  [Tecnologias](#como-usar)

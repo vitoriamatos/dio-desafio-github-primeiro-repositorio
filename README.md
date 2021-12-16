@@ -16,11 +16,11 @@ Conteúdo
 O projeto irá conter os resumos, fichamentos e os códigos dos projeto, conforme exatemente foi solicitado pelo bootcamp.
 <!--ts-->
  
-   * 🚀  [Tecnologias](#como-usar)
-      * [Git](#GIT)
-      * [C#](#C#)
-      * [.NET](#.NET)
-      * [Design Patteners](#design-patteners)
+   - 🚀  Tecnologias
+      * Git
+      * C#
+      * .NET
+      * Design Patteners
      
 <!--te-->
 
